@@ -26,6 +26,18 @@
     "docs",
     "bin"
   ],
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexQuispe/zserver.git"
+  },
+  "author": "Alex Quispe <q.wilmer.alex@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/AlexQuispe/zserver/issues"
+  },
+  "homepage": "https://github.com/AlexQuispe/zserver#readme",
   "license": "MIT",
   "dependencies": {
     "gluegun": "latest"
