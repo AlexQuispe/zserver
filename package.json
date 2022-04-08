@@ -2,7 +2,7 @@
   "name": "zserver",
   "version": "0.0.1",
   "description": "zserver CLI",
-  "private": true,
+  "private": false,
   "types": "build/types/types.d.ts",
   "bin": {
     "zserver": "bin/zserver"
